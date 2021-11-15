@@ -13,7 +13,7 @@ Once the server is running a user needs to click on login. Then they must click 
 Rayce Wheat
 
 ## Screenshot
-[!Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/RayceWheat/mvc-tech-blog/develop/public/images/Website-picture.png)
 
 ## License 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
