@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+header, nav {
+  background-color: #121212;
+}
+
 body, html {
   height: 100%;
   padding: 0;
@@ -175,4 +179,15 @@ footer {
   justify-content: center;
   padding: 1%;
   font-size: 110%;
+}
+
+.title {
+  display: flex;
+  justify-content: space-around;
+  background-color: #121212;
+}
+
+.post {
+  border-style: solid;
+  border-color: #121212;
 }
